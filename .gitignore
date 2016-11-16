@@ -45,17 +45,6 @@ jspm_packages
 
 # Yarn Integrity file
 .yarn-integrity
+
 .idea/
-LICENSE
-app/
-config.xml
-gulpfile.js
-ionic.config.json
-package.json
-platforms/
-plugins/
-tsconfig.json
-tslint.json
-typings.json
-typings/
-www/
+
